@@ -7,5 +7,3 @@ Ouvrir la console entrer le commande
 Puis
 	./HelloWorld
 
-![alt text](Commandes dans la console.png "Description goes here")
-
