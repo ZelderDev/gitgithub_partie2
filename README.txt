@@ -1,2 +1,5 @@
-Bonjour, ce projet à pour but de mettre en pratique les notions acquises dans les deux premières parties de ce cours sur Git et Github.
-Bonne journée.
+Le but de ce projet à pour but d'afficher "hello world !"
+Ouvrir la console entrer le commande
+	gcc main.c -o HelloWorld
+Puis
+	./HelloWorld
