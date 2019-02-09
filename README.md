@@ -7,5 +7,4 @@ Ouvrir la console entrer le commande
 Puis
 	./HelloWorld
 
-![Screenshot](Commandes dans la console.png)
 
